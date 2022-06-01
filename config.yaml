@@ -1,0 +1,159 @@
+baseURL: https://example.org/
+languageCode: en-us
+defaultContentLanguage: en-us
+title: Hugo tranquilpeak theme
+theme: hugo-tranquilpeak-theme
+disqusShortname: hugo-tranquilpeak-theme
+paginate: 7
+canonifyurls: yes
+permalinks:
+  posts: /:year/:month/:slug/
+taxonomies:
+  archive: archives
+  category: categories
+  tag: tags
+markup:
+  tableOfContents:
+    endLevel: 3
+    ordered: no
+    startLevel: 1
+author:
+  bio: Super bio with markdown support **COOL**
+  gravatarEmail: thibaud.lepretre@gmail.com
+  job: Your job title
+  location: France
+  name: Firstname Lastname
+  picture: https://cdn1.iconfinder.com/data/icons/ninja-things-1/1772/ninja-simple-512.png
+menu:
+  links:
+    - identifier: github
+      name: GitHub
+      pre: <i class="sidebar-button-icon fab fa-lg fa-github" aria-hidden="true"></i>
+      url: https://github.com/kakawait
+      weight: 1
+    - identifier: stackoverflow
+      name: Stack Overflow
+      pre: <i class="sidebar-button-icon fab fa-lg fa-stack-overflow" aria-hidden="true"></i>
+      url: https://stackoverflow.com/users/636472/kakawait
+      weight: 2
+  main:
+    - identifier: home
+      name: Home
+      pre: <i class="sidebar-button-icon fas fa-lg fa-home" aria-hidden="true"></i>
+      url: /
+      weight: 1
+    - identifier: categories
+      name: Categories
+      pre: <i class="sidebar-button-icon fas fa-lg fa-bookmark" aria-hidden="true"></i>
+      url: /categories
+      weight: 2
+    - identifier: tags
+      name: Tags
+      pre: <i class="sidebar-button-icon fas fa-lg fa-tags" aria-hidden="true"></i>
+      url: /tags
+      weight: 3
+    - identifier: archives
+      name: Archives
+      pre: <i class="sidebar-button-icon fas fa-lg fa-archive" aria-hidden="true"></i>
+      url: /archives
+      weight: 4
+    - identifier: about
+      name: About
+      pre: <i class="sidebar-button-icon fas fa-lg fa-question" aria-hidden="true"></i>
+      url: /#about
+      weight: 5
+  misc:
+    - identifier: rss
+      name: RSS
+      pre: <i class="sidebar-button-icon fas fa-lg fa-rss" aria-hidden="true"></i>
+      url: /index.xml
+      weight: 1
+params:
+  autoThumbnailImage: yes
+  clearReading: yes
+  comment:
+    disqus:
+      enable: yes
+      shortname: hugo-tranquilpeak-theme
+    gitalk:
+      enable: no
+      options:
+        distractionFreeMode: no
+        enableHotKey: yes
+        language: en
+        pagerDirection: first
+        perPage: 10
+  coverImage: images/cover.jpg
+  customJS:
+    - async: yes
+      crossorigin: anonymous
+      defer: yes
+      integrity: sha512-gE8KAQyFIzV1C9+GZ8TKJHZS2s+n7EjNtC+IMRn1l5+WYJTHOODUM6JSjZhFhqXmc7bG8Av6XXpckA4tYhflnw==
+      src: https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.1.0/languages/apache.min.js
+    - async: yes
+      crossorigin: anonymous
+      defer: yes
+      integrity: sha512-EWROca+bote+7Oaaar1F6y74iZj1r1F9rm/ly7o+/FwJopbBaWtsFDmaKoZDd3QiGU2pGacBirHJNivmGLYrow==
+      src: https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.1.0/languages/go.min.js
+    - async: yes
+      crossorigin: anonymous
+      defer: yes
+      integrity: sha512-GDVzAn0wpx1yVtQsRWmFc6PhJiLBPdUic+h4GWgljBh904O3JU10fk9EKNpVyIoPqkFn54rgL2QBG4BmUTMpiQ==
+      src: https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.1.0/languages/http.min.js
+    - async: yes
+      crossorigin: anonymous
+      defer: yes
+      integrity: sha512-UgZlma8NzkrDb/NWgmLIcTrH7i/CSnLLDRFqCSNF5NGPpjKmzyM25qcoXGOup8+cDakKyaiTDd7N4dyH4YT+IA==
+      src: https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.1.0/languages/less.min.js
+    - async: yes
+      crossorigin: anonymous
+      defer: yes
+      integrity: sha512-lot9koe73sfXIrUvIPM/UEhuMciN56RPyBdOyZgfO53P2lkWyyXN7J+njcxIIBRV+nVDQeiWtiXg+bLAJZDTfg==
+      src: https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.1.0/languages/nginx.min.js
+    - async: yes
+      crossorigin: anonymous
+      defer: yes
+      integrity: sha512-Zd3e7XxHP00TD0Imr0PIfeM0fl0v95kMWuhyAS3Wn1UTSXTkz0OhtRgBAr4JlmADRgiXr4x7lpeUdqaGN8xIog==
+      src: https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.1.0/languages/puppet.min.js
+    - async: yes
+      crossorigin: anonymous
+      defer: yes
+      integrity: sha512-qtqDO052iXMSP+5d/aE/jMtL9vIIGvONgTJziC2K/ZIB1yEGa55WVxGE9/08rSQ62EoDifS9SWVGZ7ihSLhzMA==
+      src: https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.1.0/languages/scss.min.js
+    - async: yes
+      crossorigin: anonymous
+      defer: yes
+      integrity: sha512-1NmkjnEDnwwwcu28KoQF8vs3oaPFokQHbmbtwGhFfeDsQZtVFI8zW2aE9O8yMYdpdyKV/5blE4pSWw4Z/Sv97w==
+      src: https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.1.0/languages/stylus.min.js
+    - async: yes
+      crossorigin: anonymous
+      defer: yes
+      integrity: sha512-B2wSfruPjr8EJL6IIzQr1eAuDwrsfIfccNf/LCEdxELCgC/S/ZMt/Uvk80aD79m7IqOqW+Sw8nbkvha20yZpzg==
+      src: https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.1.0/languages/swift.min.js
+    - async: yes
+      crossorigin: anonymous
+      defer: yes
+      integrity: sha512-28oDiQZGKUVN6wQ7PSLPNipOcmkCALXKwOi7bnkyFf8QiMZQxG9EQoy/iiNx6Zxj2cG2SbVa4dXKigQhu7GiFw==
+      src: https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.1.0/languages/yaml.min.js
+  description: Hugo tranquilpeak theme demo
+  header:
+    rightLink:
+      class: ''
+      icon: ''
+      url: /#about
+  hierarchicalCategories: yes
+  imageGallery: yes
+  sharingOptions:
+    - icon: fab fa-facebook-square
+      name: Facebook
+      url: https://www.facebook.com/sharer/sharer.php?u=%s
+    - icon: fab fa-twitter
+      name: Twitter
+      url: https://twitter.com/intent/tweet?text=%s
+    - icon: fab fa-linkedin
+      name: Linkedin
+      url: https://www.linkedin.com/sharing/share-offsite/?url=%s
+  sidebarBehavior: 1
+  syntaxHighlighter: highlight.js
+  thumbnailImage: yes
+  thumbnailImagePosition: bottom

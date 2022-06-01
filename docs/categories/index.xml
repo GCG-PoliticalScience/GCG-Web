@@ -6,16 +6,7 @@
     <description>Recent content in Categories on Hugo tranquilpeak theme</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 01 Dec 2020 21:13:14 -0500</lastBuildDate><atom:link href="https://ayjerenr.github.io/GCG-Web/categories/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>R</title>
-      <link>https://ayjerenr.github.io/GCG-Web/categories/r/</link>
-      <pubDate>Tue, 01 Dec 2020 21:13:14 -0500</pubDate>
-      
-      <guid>https://ayjerenr.github.io/GCG-Web/categories/r/</guid>
-      <description></description>
-    </item>
-    
+    <lastBuildDate>Mon, 15 Jun 2015 00:00:00 +0000</lastBuildDate><atom:link href="https://ayjerenr.github.io/GCG-Web/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>releases</title>
       <link>https://ayjerenr.github.io/GCG-Web/categories/releases/</link>
@@ -49,6 +40,15 @@
       <pubDate>Thu, 28 May 2015 00:00:00 +0000</pubDate>
       
       <guid>https://ayjerenr.github.io/GCG-Web/categories/features/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>R</title>
+      <link>https://ayjerenr.github.io/GCG-Web/categories/r/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://ayjerenr.github.io/GCG-Web/categories/r/</guid>
       <description></description>
     </item>
     

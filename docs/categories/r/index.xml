@@ -5,14 +5,13 @@
     <link>https://ayjerenr.github.io/GCG-Web/categories/r/</link>
     <description>Recent content in R on Hugo tranquilpeak theme</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Tue, 01 Dec 2020 21:13:14 -0500</lastBuildDate><atom:link href="https://ayjerenr.github.io/GCG-Web/categories/r/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="https://ayjerenr.github.io/GCG-Web/categories/r/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Hello R Markdown</title>
-      <link>https://ayjerenr.github.io/GCG-Web/2020/12/hello-r-markdown/</link>
-      <pubDate>Tue, 01 Dec 2020 21:13:14 -0500</pubDate>
+      <title>Starting with the project web</title>
+      <link>https://ayjerenr.github.io/GCG-Web/1/01/starting-with-the-project-web/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://ayjerenr.github.io/GCG-Web/2020/12/hello-r-markdown/</guid>
+      <guid>https://ayjerenr.github.io/GCG-Web/1/01/starting-with-the-project-web/</guid>
       <description>R Markdown This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see http://rmarkdown.rstudio.com.
 You can embed an R code chunk like this:
 summary(cars) ## speed dist ## Min. : 4.0 Min. : 2.00 ## 1st Qu.:12.0 1st Qu.: 26.00 ## Median :15.0 Median : 36.00 ## Mean :15.4 Mean : 42.98 ## 3rd Qu.</description>

@@ -1,10 +1,10 @@
 ---
-autoThumbnailImage: false
+title: "Welcome to Tranquilpeak 0.5.3-BETA"
 categories:
 - tranquilpeak
 - releases
+date: '2015-06-15'
 coverImage: //d1u9biwaxjngwg.cloudfront.net/welcome-to-tranquilpeak/city.jpg
-date: "2015-06-15"
 keywords:
 - disqus
 - google
@@ -18,9 +18,9 @@ tags:
 - google analytics
 thumbnailImage: //d1u9biwaxjngwg.cloudfront.net/welcome-to-tranquilpeak/city-750.jpg
 thumbnailImagePosition: top
-title: Welcome to Tranquilpeak 0.5.3-BETA
+autoThumbnailImage: no
 ---
-Tranquilpeak is a gorgeous responsive theme for Hugo blog framework. It has many features and integrated services to improve user experience.
+Welcome to the website of the CGC project. Here you can find information about the latest developments with regards to our work.
 <!--more-->
 
 ![Tranquilpeak](/img/showcase.png)

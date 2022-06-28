@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Hugo tranquilpeak theme</title>
+    <link>https://ayjerenr.github.io/GCG-Web/posts/</link>
+    <description>Recent content in Posts on Hugo tranquilpeak theme</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 15 Jun 2015 00:00:00 +0000</lastBuildDate><atom:link href="https://ayjerenr.github.io/GCG-Web/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Welcome to Tranquilpeak 0.5.3-BETA</title>
+      <link>https://ayjerenr.github.io/GCG-Web/2015/06/welcome-to-tranquilpeak-0.5.3-beta/</link>
+      <pubDate>Mon, 15 Jun 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://ayjerenr.github.io/GCG-Web/2015/06/welcome-to-tranquilpeak-0.5.3-beta/</guid>
+      <description>&lt;p&gt;Welcome to the website of the CGC project. Here you can find information about the latest developments with regards to our work.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Starting with the project web</title>
+      <link>https://ayjerenr.github.io/GCG-Web/1/01/starting-with-the-project-web/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://ayjerenr.github.io/GCG-Web/1/01/starting-with-the-project-web/</guid>
+      <description>R Markdown This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see http://rmarkdown.rstudio.com.
+You can embed an R code chunk like this:
+summary(cars) ## speed dist ## Min. : 4.0 Min. : 2.00 ## 1st Qu.:12.0 1st Qu.: 26.00 ## Median :15.0 Median : 36.00 ## Mean :15.4 Mean : 42.98 ## 3rd Qu.</description>
+    </item>
+    
+  </channel>
+</rss>

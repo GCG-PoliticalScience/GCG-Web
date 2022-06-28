@@ -4,7 +4,7 @@ categories:
 - tranquilpeak
 - releases
 date: '2015-06-15'
-coverImage: //d1u9biwaxjngwg.cloudfront.net/welcome-to-tranquilpeak/city.jpg
+coverImage: //img/code.png
 keywords:
 - disqus
 - google
@@ -16,7 +16,7 @@ tags:
 - gravatar
 - disqus
 - google analytics
-thumbnailImage: //d1u9biwaxjngwg.cloudfront.net/welcome-to-tranquilpeak/city-750.jpg
+thumbnailImage: //img/code.png
 thumbnailImagePosition: top
 autoThumbnailImage: no
 ---

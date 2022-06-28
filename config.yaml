@@ -83,7 +83,7 @@ params:
         language: en
         pagerDirection: first
         perPage: 10
-  coverImage: images/cover.jpg
+  coverImage: images/cover.png
   customJS:
     - async: yes
       crossorigin: anonymous

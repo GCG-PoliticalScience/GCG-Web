@@ -144,9 +144,6 @@ params:
   hierarchicalCategories: yes
   imageGallery: yes
   sharingOptions:
-    - icon: fab fa-facebook-square
-      name: Facebook
-      url: https://www.facebook.com/sharer/sharer.php?u=%s
     - icon: fab fa-twitter
       name: Twitter
       url: https://twitter.com/intent/tweet?text=%s

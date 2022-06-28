@@ -69,7 +69,7 @@ menu:
       url: /index.xml
       weight: 1
 params:
-  autoThumbnailImage: yes
+  autoThumbnailImage: no
   clearReading: yes
   comment:
     disqus:

@@ -18,7 +18,7 @@ markup:
     ordered: no
     startLevel: 1
 author:
-  bio: Super bio with markdown support **COOL**
+  bio: Gender Citation Gap
   gravatarEmail: thibaud.lepretre@gmail.com
   job: Your job title
   location: Germany
@@ -31,11 +31,6 @@ menu:
       pre: <i class="sidebar-button-icon fab fa-lg fa-github" aria-hidden="true"></i>
       url: https://github.com/GCG-PoliticalScience
       weight: 1
-    - identifier: stackoverflow
-      name: Stack Overflow
-      pre: <i class="sidebar-button-icon fab fa-lg fa-stack-overflow" aria-hidden="true"></i>
-      url: https://stackoverflow.com/users/636472/kakawait
-      weight: 2
   main:
     - identifier: home
       name: Home

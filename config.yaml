@@ -19,11 +19,11 @@ markup:
     startLevel: 1
 author:
   bio: Gender Citation Gap
-  gravatarEmail: thibaud.lepretre@gmail.com
+  gravatarEmail: gendercitationgap@posteo.de
   job: Your job title
   location: Germany
   name: GCG project
-  picture: https://cdn1.iconfinder.com/data/icons/ninja-things-1/1772/ninja-simple-512.png
+  picture: 
 menu:
   links:
     - identifier: github
@@ -40,28 +40,15 @@ menu:
     - identifier: team
       name: GCG Team
       pre: <i class="sidebar-button-icon fas fa-lg fa-users" aria-hidden="true"></i>
-      url: /team
+      url: /team/team
       weight: 2      
-    - identifier: categories
-      name: Categories
-      pre: <i class="sidebar-button-icon fas fa-lg fa-bookmark" aria-hidden="true"></i>
-      url: /categories
-      weight: 4
+
     - identifier: tags
       name: Tags
       pre: <i class="sidebar-button-icon fas fa-lg fa-tags" aria-hidden="true"></i>
       url: /tags
       weight: 5
-    - identifier: archives
-      name: Archives
-      pre: <i class="sidebar-button-icon fas fa-lg fa-archive" aria-hidden="true"></i>
-      url: /archives
-      weight: 6
-    - identifier: about
-      name: About
-      pre: <i class="sidebar-button-icon fas fa-lg fa-question" aria-hidden="true"></i>
-      url: /#about
-      weight: 7
+
   misc:
     - identifier: rss
       name: RSS

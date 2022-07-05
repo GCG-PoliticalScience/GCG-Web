@@ -1,27 +1,22 @@
 ---
 title: "Who are we?"
 categories:
-- tranquilpeak
-- releases
+
 date: '2022-06-28'
-coverImage: images/code-second.png
 keywords:
 - disqus
 - google
 - gravatar
 metaAlignment: center
 tags:
-- hexo theme
-- responsive
-- gravatar
-- disqus
-- google analytics
+- team
+- research
+- equality
 thumbnailImage: images/code-second.png
 thumbnailImagePosition: top
 autoThumbnailImage: no
 ---
 
-  
 Our team consists of international researchers interested in investigating gender citation gap in academia.
 <!--more-->
 
@@ -29,8 +24,6 @@ Our team consists of international researchers interested in investigating gende
 ## [Ingo Rohlfing](https://twitter.com/ingorohlfing)
 I am a professor of political science at the Univerosty of Cologne. My primary research and teaching interests are social science methods with an emphasis on causal inference, qualitative and multimethod research, and research transparency and reproducibility. Substantively, I sometimes work on political parties and party politics. You can find most up-to-date information about my research on my [personal homepage](https://ingorohlfing.wordpress.com).
 
-
-## [Jeren B.](https://github.com/AyjerenR)
 
 ## [Katie Nutley]()
 

@@ -2,25 +2,16 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://ayjerenr.github.io/GCG-Web/categories/</loc>
+    <loc>https://ayjerenr.github.io/GCG-Web/tags/citation/</loc>
     <lastmod>2022-06-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://ayjerenr.github.io/GCG-Web/tags/disqus/</loc>
+    <loc>https://ayjerenr.github.io/GCG-Web/tags/equality/</loc>
     <lastmod>2022-06-28T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://ayjerenr.github.io/GCG-Web/2022/06/gender-citation-gap-project/</loc>
     <lastmod>2022-06-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://ayjerenr.github.io/GCG-Web/team/team/</loc>
-    <lastmod>2022-06-28T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://ayjerenr.github.io/GCG-Web/tags/google-analytics/</loc>
-    <lastmod>2022-06-28T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://ayjerenr.github.io/GCG-Web/tags/gravatar/</loc>
-    <lastmod>2022-06-28T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://ayjerenr.github.io/GCG-Web/tags/hexo-theme/</loc>
+    <loc>https://ayjerenr.github.io/GCG-Web/tags/gender-equality/</loc>
     <lastmod>2022-06-28T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://ayjerenr.github.io/GCG-Web/</loc>
@@ -29,31 +20,23 @@
     <loc>https://ayjerenr.github.io/GCG-Web/posts/</loc>
     <lastmod>2022-06-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://ayjerenr.github.io/GCG-Web/categories/releases/</loc>
-    <lastmod>2022-06-28T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://ayjerenr.github.io/GCG-Web/tags/responsive/</loc>
+    <loc>https://ayjerenr.github.io/GCG-Web/tags/research/</loc>
     <lastmod>2022-06-28T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://ayjerenr.github.io/GCG-Web/tags/</loc>
     <lastmod>2022-06-28T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>https://ayjerenr.github.io/GCG-Web/tags/team/</loc>
+    <lastmod>2022-06-28T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://ayjerenr.github.io/GCG-Web/team/</loc>
     <lastmod>2022-06-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://ayjerenr.github.io/GCG-Web/categories/tranquilpeak/</loc>
+    <loc>https://ayjerenr.github.io/GCG-Web/team/team/</loc>
     <lastmod>2022-06-28T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://ayjerenr.github.io/GCG-Web/archives/</loc>
   </url><url>
-    <loc>https://ayjerenr.github.io/GCG-Web/tags/plot/</loc>
-  </url><url>
-    <loc>https://ayjerenr.github.io/GCG-Web/categories/r/</loc>
-  </url><url>
-    <loc>https://ayjerenr.github.io/GCG-Web/tags/r-markdown/</loc>
-  </url><url>
-    <loc>https://ayjerenr.github.io/GCG-Web/tags/regression/</loc>
-  </url><url>
-    <loc>https://ayjerenr.github.io/GCG-Web/1/01/starting-with-the-project-web/</loc>
+    <loc>https://ayjerenr.github.io/GCG-Web/categories/</loc>
   </url>
 </urlset>

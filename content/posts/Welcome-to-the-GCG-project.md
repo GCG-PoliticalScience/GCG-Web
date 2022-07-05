@@ -1,5 +1,5 @@
 ---
-title: "Gender Citation Gap Project"
+title: "Gender Citation Gap"
 categories:
 date: '2022-06-28'
 coverImage: images/code-second.png

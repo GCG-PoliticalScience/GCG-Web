@@ -3,6 +3,10 @@ title: IF
 author: AR
 date: '2022-08-15'
 slug: if
+coverImage: images/cover-old.jpg
+thumbnailImage: images/cover-old.jpg
+thumbnailImagePosition: top
+autoThumbnailImage: no
 categories:
   - category
   - subcategory
@@ -13,6 +17,5 @@ keywords:
   - tech
 ---
 
-
-
 <!--more-->
+This is a sample blog post
